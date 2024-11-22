@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: gh
+  checksum: 158c3e87c0080e5d10f546d08eb224980129209b69fc2f565c3afeb3849e0dfc
+version: "1.0"
